@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636413400 source:c:\users\burcu\desktop\c\20010011066.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
