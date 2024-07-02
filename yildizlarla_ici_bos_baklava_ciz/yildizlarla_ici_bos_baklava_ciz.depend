@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637261884 source:c:\users\burcu\desktop\c\yildizlarla_ici_bos_baklava_ciz\main.c
+	<stdio.h>
+	<stdlib.h>
+
