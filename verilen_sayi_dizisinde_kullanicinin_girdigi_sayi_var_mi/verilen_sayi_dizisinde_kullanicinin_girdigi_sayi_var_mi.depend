@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641759261 source:c:\users\burcu\desktop\c\verilen_sayi_dizisinde_kullanicinin_girdigi_sayi_var_mi\main.c
+	<stdio.h>
+	<stdlib.h>
+
