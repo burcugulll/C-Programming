@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637262021 source:c:\users\burcu\desktop\c\sirali_olarak_verilen_iki_diziyi_birlestir_ve_yeni_dizi_olustur\main.c
+	<stdio.h>
+	<stdlib.h>
+
