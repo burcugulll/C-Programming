@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637019917 source:c:\users\burcu\desktop\c\kullanicidan_alinan_metin_icinde_kullanicidan_alinan_metni_ara\main.c
+	<stdio.h>
+	<stdlib.h>
+
