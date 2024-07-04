@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637069723 source:c:\users\burcu\desktop\c\klavyeden_girilen_metni_tersine_cevir\main.c
+	<stdio.h>
+	<stdlib.h>
+
