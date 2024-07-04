@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637251976 source:c:\users\burcu\desktop\c\matristeki_satir_toplamlarini_sutun_toplamlarini_ve_tum_sayilari_topla\main.c
+	<stdio.h>
+	<stdlib.h>
+
